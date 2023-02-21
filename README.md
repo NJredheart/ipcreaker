@@ -1,4 +1,7 @@
-Installtion for linux\n
+A simple tool for gathering IP address information
+
+
+Installtion for linux
 
 #cd ipcreaker
 

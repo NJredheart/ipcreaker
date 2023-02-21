@@ -1,0 +1,6 @@
+requests==2.25.1
+json
+argparse
+termcolor==1.1.0
+time
+os
